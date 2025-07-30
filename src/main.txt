@@ -1,1 +1,2 @@
 CLI for building, running, testing, and managing your Emacs Lisp dependencies
+# match the style used in the rest of the module
