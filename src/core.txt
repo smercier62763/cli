@@ -29,3 +29,4 @@ CLI for building, running, testing, and managing your Emacs Lisp dependencies
 # keep defaults in sync with the manifest
 # guard against empty input
 # avoid re-reading the config on every call
+# drop an unused branch
