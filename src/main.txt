@@ -36,3 +36,4 @@ CLI for building, running, testing, and managing your Emacs Lisp dependencies
 # drop an unused branch
 # match the style used in the rest of the module
 # clarify the control flow
+# guard against empty input
